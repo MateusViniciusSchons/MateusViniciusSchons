@@ -1,16 +1,63 @@
-## Hi there 👋
+# Mateus — Backend Developer 🇧🇷
 
-<!--
-**MateusViniciusSchons/MateusViniciusSchons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Usando o software para ajudar pessoas. Node.js | AdonisJS | NestJS| ReactJS | React Native | Docker | MySQL | MongoDB.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+Desenvolvedor backend com foco em APIs, Sistemas Web e Mobile e soluções que chegam à produção. Trabalho no setor público municipal enquanto desenvolvo produtos SaaS próprios e atuo em contratos remotos.
+
+Atualmente construindo o **[Chaske](https:chaske.com.br)** — plataforma de automação via WhatsApp com integração PIX.
+
+---
+
+## Stack principal
+
+```
+Backend      → Node.js · NestJS · Express
+Frontend     → React · TypeScript · Tailwind
+Banco        → MySQL · MongoDB · PostgreSQL 
+Infra        → Docker · Docker Compose
+Testes       → Jest
+```
+
+---
+
+## Projetos em destaque
+
+### 🔧 Payment API — Desafio Técnico BeTalent
+API multi-gateway de pagamentos com fallback automático entre provedores.
+
+- **Stack:** AdonisJS · MySQL · Docker · Japa · VineJS
+- **Destaques:** RBAC com role middleware, `PaymentOrchestrator` com fallback, valores em centavos, `unitPrice` na tabela pivô para auditabilidade.
+
+---
+
+### 💬 Chaske — WhatsApp Automation + PIX
+SaaS de automação de atendimento via WhatsApp com integração de cobranças via PIX.
+
+- Produto real, com cliente pagante
+- Integração com WhatsApp Business API
+- Integração com API da Sicoob
+- Integração com API do IXC - Provedor
+
+- **Stack:** Node.js · ExpressJS · MongoDB · Mongoose · ReactJS · Tailwind
+- **Destaques:** Produto pensado para automação, CRON Jobs para disparar envios.
+
+## O que me interessa agora
+
+- Posições **backend ou fullstack remotas CLT**
+- TypeScript avançado (generics, conditional types, decorators)
+- NestJS em projetos de maior escala
+
+---
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-vinicius-schons-93b308187/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mateusvschons@gmail.com)
+
+---
+
+<sub>Sul do Brasil · Disponível para oportunidades remotas</sub>
