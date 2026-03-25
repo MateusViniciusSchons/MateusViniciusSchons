@@ -8,7 +8,7 @@
 
 Desenvolvedor backend com foco em APIs, Sistemas Web e Mobile e soluções que chegam à produção. Trabalho no setor público municipal enquanto desenvolvo produtos SaaS próprios e atuo em contratos remotos.
 
-Atualmente construindo o **[Chaske](https:chaske.com.br)** — plataforma de automação via WhatsApp com integração PIX.
+Atualmente construindoa **[Chaske](https://chaske.com.br)** — plataforma de automação via WhatsApp com integração PIX.
 
 ---
 
