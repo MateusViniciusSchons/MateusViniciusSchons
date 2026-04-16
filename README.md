@@ -8,7 +8,7 @@
 
 Desenvolvedor backend com foco em APIs, Sistemas Web e Mobile e soluções que chegam à produção. Trabalho no setor público municipal enquanto desenvolvo produtos SaaS próprios e atuo em contratos remotos.
 
-Atualmente construindoa **[Chaske](https://chaske.com.br)** — plataforma de automação via WhatsApp com integração PIX.
+Atualmente construindo a **[Chaske](https://chaske.com.br)** — plataforma de automação via WhatsApp com integração PIX.
 
 ---
 
@@ -26,14 +26,6 @@ Testes       → Jest
 
 ## Projetos em destaque
 
-### 🔧 Payment API — Desafio Técnico BeTalent
-API multi-gateway de pagamentos com fallback automático entre provedores.
-
-- **Stack:** AdonisJS · MySQL · Docker · Japa · VineJS
-- **Destaques:** RBAC com role middleware, `PaymentOrchestrator` com fallback, valores em centavos, `unitPrice` na tabela pivô para auditabilidade.
-
----
-
 ### 💬 Chaske — WhatsApp Automation + PIX
 SaaS de automação de atendimento via WhatsApp com integração de cobranças via PIX.
 
@@ -44,6 +36,16 @@ SaaS de automação de atendimento via WhatsApp com integração de cobranças v
 
 - **Stack:** Node.js · ExpressJS · MongoDB · Mongoose · ReactJS · Tailwind
 - **Destaques:** Produto pensado para automação, CRON Jobs para disparar envios.
+
+---
+
+### 🔧 Payment API — Desafio Técnico BeTalent
+API multi-gateway de pagamentos com fallback automático entre provedores.
+
+- **Stack:** AdonisJS · MySQL · Docker · Japa · VineJS
+- **Destaques:** RBAC com role middleware, `PaymentOrchestrator` com fallback, valores em centavos, `unitPrice` na tabela pivô para auditabilidade.
+
+---
 
 ## O que me interessa agora
 
