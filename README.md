@@ -1,6 +1,6 @@
 # Mateus — Fullstack Developer 🇧🇷
 
-> Usando o software para ajudar pessoas. Node.js | AdonisJS | NestJS| ReactJS | React Native | Docker | MySQL | MongoDB.
+> Usando o software para ajudar pessoas. Node.js | AdonisJS | ReactJS | React Native | Docker | MySQL | MongoDB.
 
 ---
 
@@ -19,7 +19,7 @@ Backend      → Node.js · NestJS · Express
 Frontend     → React · TypeScript · Tailwind
 Banco        → MySQL · MongoDB · PostgreSQL 
 Infra        → Docker · Docker Compose
-Testes       → Jest
+Testes       → Japa
 ```
 
 ---
@@ -50,14 +50,12 @@ API multi-gateway de pagamentos com fallback automático entre provedores.
 ## O que me interessa agora
 
 - Posições **backend ou fullstack remotas CLT**
-- TypeScript avançado (generics, conditional types, decorators)
-- NestJS em projetos de maior escala
 
 ---
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-vinicius-schons-93b308187/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-vinicius-schons/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mateusvschons@gmail.com)
 
 ---
