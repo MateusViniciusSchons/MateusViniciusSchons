@@ -15,7 +15,7 @@ Atualmente construindo a **[Chaske](https://chaske.com.br)** — plataforma de a
 ## Stack principal
 
 ```
-Backend      → Node.js · NestJS · Express
+Backend      → Node.js · AdonisJS · Express
 Frontend     → React · TypeScript · Tailwind
 Banco        → MySQL · MongoDB · PostgreSQL 
 Infra        → Docker · Docker Compose
